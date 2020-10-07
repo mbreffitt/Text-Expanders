@@ -1,0 +1,24 @@
+**Reporting:**
+When switching between currencies, our reporting doesn't factor in the difference between currencies. So if you had $500 USD processed, that would show as $500 in reports.Say next day you switch to AUD, the report would still read as $500 for previous processing. Since $1 AUD is not equal to $1 USD, the reports in theory will be wrong going forward. 
+
+**Product Pricing:**
+Since the dollar amount between currencies is not the same, a product price’s value, could mean something different if currency is adjusted and impact your margins. Ex - $20 AUD, is not equal to $20 USD. Refunds processed after a currency change will also be affected by the currency change.
+
+**Apps:**
+Some apps may have limitations when it comes to changing selling currency. If you needs to know how changing selling currency will affect your apps, you should reach out to the App developer to clarify before changing your selling currency.
+
+**Gift Cards:**
+Gift cards with remaining balances in the old selling currency will not work once the selling currency of the store has been changed. 
+
+**Shipping:**
+Any shipping rates for a store will maintain the previous currency and will not update automatically. After a currency change, you'll will need to delete the previous rates and add them back in manually to list them in your new currency.
+
+Here are some workarounds you can do:
+
+**Reporting:**
+You can set a “date range” for the data you are reviewing, to exclude any transactions that might have been processed in a different currency before the specific date of the currency switch. 
+
+**Other:**
+Making any adjustments to your product pricing if needed to factor in the currency difference. You’ll also want to review any of your product pages, themes, etc for currency information, that might need to be adjusted. Note that refunds will be processed in the new currency.
+
+If this all sounds good to you, please confirm that you still would like to move forward with changing your currency, and we can enable that for you.
